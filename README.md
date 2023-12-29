@@ -1,4 +1,4 @@
-### Hi there 👋
+[![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=wtf&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
 
 <!--
 **11291996/11291996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
