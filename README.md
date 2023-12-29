@@ -1,4 +1,5 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=wtf&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11291996&show_icons=true&theme=dracula)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=nord&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
 
 <!--
 **11291996/11291996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
