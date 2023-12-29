@@ -1,12 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11291996&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=graywhite)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=nord&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
-
-<!--
-**11291996/11291996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +6,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11291996&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=graywhite)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=nord&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
+
+<!--
+**11291996/11291996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
