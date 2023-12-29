@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11291996&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11291996&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=graywhite)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=nord&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
 
 <!--
