@@ -7,8 +7,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats-kappa-lac-18.vercel.app/api?username=11291996&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats-kappa-lac-18.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-11291996s-projects.vercel.app/api?username=11291996&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats-git-master-11291996s-projects.vercel.app/api/top-langs/?username=11291996&layout=compact&theme=nord)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/11291996?theme=nord&font=Puritan&ext=heatmap)](https://leetcode.com/11291996)
 
 <!--
